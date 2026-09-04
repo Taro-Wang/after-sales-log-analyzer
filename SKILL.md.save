@@ -1,8 +1,6 @@
 ---
 name: "after-sales-log-analyzer"
-version: "8.7.0"
-description: 售后日志分析与诊断技能
-author: Taro-Wang
+description: "售后运营团队专用订单日志判读工具，先渠/供反馈后输出两列表（v8.7）"
 ---
 
 # After Sales Log Analyzer v8.7
