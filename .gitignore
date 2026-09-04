@@ -1,0 +1,20 @@
+# OpenClaw internal files
+*.log
+*.tmp
+.cache/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Sensitive data (if any)
+.env
+.secrets
+*.key
